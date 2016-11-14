@@ -18,4 +18,5 @@
   </author>
 
   <icon src="abc.png" />
+   <splash src="splash.png" />
 </widget>
