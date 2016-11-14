@@ -16,7 +16,7 @@
   <author href="https://build.phonegap.com" email="fazal@kmasxpedia.com">
       Fazal Hashim
   </author>
-
+<plugin name="cordova-plugin-splashscreen" spec="~4.0.0" />
   <icon src="abc.png" />
    <splash src="splash.png" />
 </widget>
